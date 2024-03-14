@@ -1,4 +1,5 @@
 matplotlib
+mlxtend
 pandas
 seaborn
 scikit-learn
