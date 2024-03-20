@@ -32,7 +32,18 @@ def validate_date(date: str) -> bool:
 
 
 if __name__ == "__main__":
-    email = 'marcelo@email.com'
+    email = 'marcelo.coelho@email.com'
+    pattern = '([a-z0-9]+[.-_])*[a-z0-9]+@[a-z0-9]+(\.[a-z]{2, })+'
+
+
+
+
+
+
+
+
+
+
     date = '3023-11-01T20:50:00'
     email_pattern = '([a-z0-9]+[.-_])*[A-Za-z0-9]+@[a-z0-9-]+(\.[a-z]{2,})+'
 
