@@ -10,6 +10,9 @@ __pycache__/
 .Python
 build/
 develop-eggs/
+data_cats_dogs/
+# data_titanic/
+# datasets/
 dist/
 downloads/
 eggs/
